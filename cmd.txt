@@ -1,0 +1,4 @@
+# Here available all cmd that used in project.
+
+01. CMD - jupyter notebook   // To launch jupyter notebook.
+02. CMD - 
